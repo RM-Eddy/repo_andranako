@@ -1,3 +1,4 @@
-fanandramako manokana momban'ny fampiasana ny git.
+- fanandramako manokana momban'ny fampiasana ny git.
 - Nanao modification izaho.
 - niova branche iany koa izaho
+- fanovana sy fanandramana faha efatra
