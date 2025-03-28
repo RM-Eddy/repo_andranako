@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-fanandramako manokana momban'ny fampiasana ny git.
-- Nanao modification izaho.
-=======
 - fanandramako manokana momban'ny fampiasana ny git.
 - Nanao modification izaho.
 - niova branche iany koa izaho
 - fanovana sy fanandramana faha efatra
->>>>>>> brancheko
+test5
